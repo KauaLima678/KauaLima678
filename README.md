@@ -74,7 +74,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
  
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/KauaLima678/KauaLima678/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/KauaLima678/KauaLima678/output/github-contribution-grid-snake.gif)
 
 
   
