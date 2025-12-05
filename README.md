@@ -35,6 +35,16 @@ width= "30px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
    />
 
+   
+   <img
+   align= "left"
+   alt= "Node.Js"
+   title= "Node.js"
+   width= "30px"
+   style = "padding-left: 20px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+   />
+
    <img
     align= "left"
     alt= "react"
@@ -46,13 +56,12 @@ width= "30px"
 
 <img 
 align= "left"
-   alt= "mysql"
-   title= "MySQL"
+   alt= "postgresql"
+   title= "PostgreSQL"
    width= "30px"
    style = "padding-left: 20px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+          
 
 
   <img
@@ -73,8 +82,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KauaLima678&theme=tokyonight" alt="mystreak"/>
  
 </div>
-
-![Snake animation](https://raw.githubusercontent.com/KauaLima678/KauaLima678/output/github-contribution-grid-snake.gif)
 
 
   
