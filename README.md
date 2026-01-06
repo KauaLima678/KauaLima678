@@ -1,6 +1,6 @@
 # 👨🏽‍🦱 Kauã Lima
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Web`**
 
 Olá! Sou Kauã, um desenvolvedor de 18 anos apaixonado por tecnologia. Minha formação técnica em Desenvolvimento de Sistemas no SENAI e dois anos de experiência prática me deram a base para transformar ideias em interfaces Front-End modernas e funcionais. Meu foco hoje é na excelência da experiência do usuário, enquanto traço ativamente minha jornada para me consolidar como um profissional Full Stack. Sou movido pelo desafio de aprender e construir, sempre em busca do próximo nível de eficiência e qualidade.
 
@@ -74,15 +74,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
 
   <br/>
   <br/>
-
-  ### 🤖 Estatísticas
-
-  <br/>
-<div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KauaLima678&theme=tokyonight" alt="mystreak"/>
- 
-</div>
-
 
   
           
