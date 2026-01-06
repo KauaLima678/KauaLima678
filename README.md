@@ -1,8 +1,10 @@
 # 👨🏽‍🦱 Kauã Lima
 
-**`Desenvolvedor Web`**
+**`Desenvolvedor Web | Full STack Focus`**
 
-Olá! Sou Kauã, um desenvolvedor de 18 anos apaixonado por tecnologia. Minha formação técnica em Desenvolvimento de Sistemas no SENAI e dois anos de experiência prática me deram a base para transformar ideias em interfaces Front-End modernas e funcionais. Meu foco hoje é na excelência da experiência do usuário, enquanto traço ativamente minha jornada para me consolidar como um profissional Full Stack. Sou movido pelo desafio de aprender e construir, sempre em busca do próximo nível de eficiência e qualidade.
+Desenvolvedor Full Stack com 2 anos de experiência prática e formação técnica em Desenvolvimento de Sistemas pelo SENAI. Especialista na criação de interfaces modernas com React e no desenvolvimento de soluções robustas utilizando PHP e SQL.
+
+Focado na entrega de código limpo, otimização de performance e excelência na experiência do usuário (UX). Atualmente, dedico-me ao aprimoramento de arquiteturas escaláveis e integração eficiente entre Front-end e Back-end.
 
 ---
 
